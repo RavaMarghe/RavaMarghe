@@ -1,5 +1,5 @@
 <h1 align="center">Hey! Nice to see you!</h1>
-<h3 align="center">I'm Margherita, welcome to my page.</h3>
+<h2 align="center">I'm Margherita, welcome to my page.</h2>
 <h4 align="center">I'm from :it: Lignano Sabbiadoro (IT),  currently living in :netherlands: Den Haag (NL)</h4>
 <h3 align="center">I'm a Jr Full Stack Developer</h3>
 
