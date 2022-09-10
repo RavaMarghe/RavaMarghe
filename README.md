@@ -34,7 +34,7 @@
 
 <h3>I'm currently:</h3>
 <ul>
-  <li>using HTML, CSS, JavaScript, React.js e Node.js;</li>
+  <li>using HTML, CSS, JavaScript, React.js and Node.js;</li>
   <li>developing web applications through AGILE methodologies;</li>
   <li>open to work!</li>
 </ul>
