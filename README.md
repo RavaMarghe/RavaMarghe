@@ -1,6 +1,6 @@
 <h2 align="center">Hey! Nice to see you!</h2>
 <h3 align="center">I'm Margherita, welcome to my page.</h3>
-<h4 align="center">I'm from :it: Lignano Sabbiadoro (IT),  currently living in :netherlands: Den Haag (NL)</h4>
+<h4 align="center">I'm from Lignano Sabbiadoro, currently living in Milano</h4>
 <h3 align="center">I'm a Jr Full Stack Developer</h3>
 
 <div align="center">
